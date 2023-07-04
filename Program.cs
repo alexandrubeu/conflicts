@@ -15,4 +15,4 @@ Console.WriteLine("Cristi");
 Console.WriteLine("Lungu Igor");
 
 
-Console.WriteLine("Ma cheama Alex dar colegii de la seriviciu ma numesc Dan")
+Console.WriteLine("Ma cheama Alex dar colegii de la seriviciu ma numesc Dan");
