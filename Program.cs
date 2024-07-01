@@ -2,9 +2,12 @@
 
 Console.WriteLine("Olaru Andrei-Costin");
 Console.WriteLine("Cristian");
-
+Console.WriteLine("Squash Squash Squash");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Vasi e aici");
+Console.WriteLine("git rebase interactiv");
+Console.WriteLine("3333333333333333333");
+Console.WriteLine("Asta e ultimul commit");
 
 // very important cepoiu feature
 var a = 5;
