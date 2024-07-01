@@ -2,6 +2,7 @@
 Console.WriteLine("Olaru Andrei-Costin");
 Console.WriteLine("Cristian");
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Vasi e aici");
 
 // very important cepoiu feature
 var a = 5;
