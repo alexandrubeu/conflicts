@@ -23,4 +23,8 @@ Console.WriteLine("Iulia3");
 Console.WriteLine("Iuliaa");
 Console.WriteLine("Iulia2");
 
+Console.WriteLine("Niky1");
+Console.WriteLine("Niky2");
+Console.WriteLine("Niky3");
+
 
