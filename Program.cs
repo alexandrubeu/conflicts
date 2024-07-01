@@ -1,9 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+Console.WriteLine("Hello, Vasi 2");
 Console.WriteLine("Olaru Andrei-Costin");
 Console.WriteLine("Cristian");
 
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, Vasi 2");
 Console.WriteLine("Vasi e aici");
 
 // very important cepoiu feature
