@@ -9,8 +9,13 @@ Console.WriteLine("Vasi e aici");
 // very important cepoiu feature
 var a = 5;
 a++;
+<<<<<<< HEAD
 var b = 6;
 b--;
+=======
+// another very important cepoiu feature
+Console.WriteLine("Cepoiu Radu Constantin");
+>>>>>>> cb3231d (Resolved conflict with iulia)
 
 Console.WriteLine("hello, Cosmin is here");
 
@@ -22,5 +27,4 @@ Console.WriteLine("Iulia3");
 
 Console.WriteLine("Iuliaa");
 Console.WriteLine("Iulia2");
-
 
