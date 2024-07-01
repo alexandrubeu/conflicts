@@ -27,5 +27,6 @@ Console.WriteLine("Iulia2");
 
 
 Console.WriteLine("Summer Practice");
+Console.Write("Summer Practice 1");
 //cool message
 
