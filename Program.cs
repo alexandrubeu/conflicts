@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Cristian 2");
+//sq message 1
+//sq message 2
+//sq message 3
 
 Console.WriteLine("Olaru Andrei-Costin");
 Console.WriteLine("Cristian");
