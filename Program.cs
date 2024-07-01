@@ -6,6 +6,8 @@ Console.WriteLine("Hello, World!");
 // very important cepoiu feature
 var a = 5;
 a++;
+var b = 6;
+b--;
 
 Console.WriteLine("hello, Cosmin is here");
 
