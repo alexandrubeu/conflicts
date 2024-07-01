@@ -15,6 +15,7 @@ b--;
 Console.WriteLine("hello, Cosmin is here");
 
 
+
 //cool message
 
 Console.WriteLine("Iuliaa");
@@ -23,4 +24,9 @@ Console.WriteLine("Iulia3");
 Console.WriteLine("Iuliaa");
 Console.WriteLine("Iulia2");
 
+
+
+Console.WriteLine("Summer Practice");
+Console.Write("Summer Practice 1");
+//cool message
 
