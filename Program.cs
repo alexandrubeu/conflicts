@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Cristian 2");
 
 Console.WriteLine("Olaru Andrei-Costin");
 Console.WriteLine("Cristian");
